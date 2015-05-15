@@ -1,7 +1,7 @@
 module.exports = (robot) ->
   robot.on "github-repo-event", (res) ->
     Payload = res.payload
-    channel = "#seteam"
+    channel = "#STOKASMASH"
     switch(res.eventType)
       when "commit_comment"
         comment = Payload.comment

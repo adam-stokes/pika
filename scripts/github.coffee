@@ -16,7 +16,7 @@ module.exports = (robot) ->
         issue = Payload.issue
         comment = Payload.comment
         repo = Payload.repository
-        robot.messageRoom channel, "#{repo.name}: New comment to issue #{issue.title}; #{comment.body}"
+        robot.messageRoom channel, "#{repo.name}: New comment to issue #{issue.title}; #{comment.html_url}"
       when "issues"
         action = Payload.action
         issue = Payload.issue

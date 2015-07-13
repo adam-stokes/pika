@@ -10,5 +10,6 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-launchpad",
-  "hubot-github-webhook-listener"
+  "hubot-github-webhook-listener",
+  "hubot-debpkg"
 ]

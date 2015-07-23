@@ -6,7 +6,6 @@
   "description": "sup tiger",
   "dependencies": {
     "hubot": "^2.12.0",
-    "hubot-debpkg": "battlemidget/hubot-debpkg",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-webhook-listener": "^0.9.1",
     "hubot-google-images": "^0.1.4",

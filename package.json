@@ -16,6 +16,7 @@
     "hubot-irc": "^0.2.8",
     "hubot-launchpad": "battlemidget/hubot-launchpad",
     "hubot-maps": "0.0.2",
+    "hubot-memes": "^1.1.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",

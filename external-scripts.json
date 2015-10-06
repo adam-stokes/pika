@@ -12,5 +12,6 @@
   "hubot-launchpad",
   "hubot-github-webhook-listener",
   "hubot-debpkg",
-  "hubot-current-time"
+  "hubot-current-time",
+  "hubot-memes"
 ]

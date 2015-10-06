@@ -11,5 +11,6 @@
   "hubot-youtube",
   "hubot-launchpad",
   "hubot-github-webhook-listener",
-  "hubot-debpkg"
+  "hubot-debpkg",
+  "hubot-current-time"
 ]

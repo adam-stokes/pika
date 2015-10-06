@@ -6,6 +6,7 @@
   "description": "sup tiger",
   "dependencies": {
     "hubot": "^2.16.0",
+    "hubot-current-time": "^1.0.0",
     "hubot-debpkg": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-webhook-listener": "^0.9.1",
